@@ -1,2 +1,2 @@
 # pure-blog
-My Blog made with PureCSS 
+My Blog made with PureCSS and React
